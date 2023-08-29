@@ -14,6 +14,7 @@ import java.util.Collections;
  * @Date 2023/8/27 14:25
  * @Version 1.0
  */
+//niude
 public class FastAutoGeneratorTest {
     public static void main(String[] args) {
         FastAutoGenerator.create("jdbc:mysql://localhost:3306/mybatis_plus?serverTimezone=GMT%2B8&characterEncoding=utf-8&useSSL=false", "root", "soul990719")
